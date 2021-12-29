@@ -6,8 +6,8 @@
 - [x] 3 - Aprenda o que são Estrutura de Dados e Algoritmos;
 - [x] 4 - Introdução ao Git e ao GitHub;
 - [x] 5 - Projetos ágeis com SCRUM;
-- [ ] 6 - Criando seu Primeiro Repositório no GitHub Para Compartilhar seu Progresso;
-- [ ] 7 - Introdução a criação de websites com HTML5 e CSS3;
+- [x] 6 - Criando seu Primeiro Repositório no GitHub Para Compartilhar seu Progresso;
+- [x] 7 - Introdução a criação de websites com HTML5 e CSS3;
 - [ ] 8 - Construindo páginas para internet com Bootstrap;
 - [ ] 9 - IDE Instalação e Configuraçaõ (Visual Studio Code);
 - [ ] 10 - Introdução ao JavaScript;
