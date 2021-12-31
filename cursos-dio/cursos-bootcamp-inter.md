@@ -11,8 +11,8 @@
 - [x] 8 - Construindo páginas para internet com Bootstrap;
 - [x] 9 - IDE Instalação e Configuraçaõ (Visual Studio Code);
 - [x] 10 - Introdução ao JavaScript;
-- [ ] 11 - Sintaxe Básica em JavaScript;
-- [ ] 12 - Sintaxe e Operadores;
+- [x] 11 - Sintaxe Básica em JavaScript;
+- [x] 12 - Sintaxe e Operadores;
 - [ ] 13 - Variáveis e Tipos;
 - [ ] 14 - Funções;
 - [ ] 15 - Coleções;
